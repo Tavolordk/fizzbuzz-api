@@ -1,0 +1,28 @@
+{
+  "name": "fizzbuzz-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tavolordk/fizzbuzz-api.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "API",
+    "CRUD"
+  ],
+  "author": "octavio olea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tavolordk/fizzbuzz-api/issues"
+  },
+  "homepage": "https://github.com/Tavolordk/fizzbuzz-api#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
