@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Tavolordk/fizzbuzz-api#readme",
   "devDependencies": {
-    "jest": "^28.0.3"
+    "jest": "^27.5.1"
   }
 }
